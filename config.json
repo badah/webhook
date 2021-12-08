@@ -1,0 +1,12 @@
+{
+	"credentials": {
+		"client_id": "UwSjZbV99eZN9sVXkvaIsow20AIciQ",
+		"client_secret": "hKDpu93dvUTJMqO83IHk9nV9vSLtFJ",
+		"grant_type": "password",
+		"scope": "inventory orders catalog",
+		"username": "testes@2032g",
+		"password": "PXwInKodUAXhM8kcurQw"
+	},
+	"access_token": "alkDDeiBbNm9bgGof94RxX74HtcxAl6D",
+	"webhook_callback_url" : "https://8956-201-95-192-121.ngrok.io"
+}
